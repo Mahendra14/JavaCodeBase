@@ -6,5 +6,5 @@ orderLines:
       quantity: 12
       unitPrice: 1.23
     - item: Widget (10mm)
-      quantity: 45
+      quantity: 4
       unitPrice: 3.45
